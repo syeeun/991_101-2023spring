@@ -1,14 +1,10 @@
-<!-- # 991.101 주제탐구세미나 1: Data and Social Science @ SNU -->
-
-본 사이트는 2023년 서울대학교 1학기 991.101: "주제탐구세미나 1: Data and Social Science"에서 신예은 교수 (통계학 전공) 의 강의에 관련한 강의노트 및 읽기자료 등을 제공한다. 
-
 ## Announcements/comments
 
   * 2023-03-02: First day of spring semester classes 
 
-## Instructor 
+## Information 
 
-[Yei Eun Shin](mailto:shin.y@snu.ac.kr)
+**Instructor**: [Yei Eun Shin](mailto:shin.y@snu.ac.kr)
 
 **Class Time**: 매주 화요일 13:00 - 15:50  
 합반강의 (13:00 - 14:30): 220동 201호 (교수 강의 + Q&A)  
@@ -24,9 +20,9 @@ TBA <!-- 김세호 ksh321ksh at snu dot ac dot kr;-->
 **References**: [Advanced R](http://adv-r.had.co.nz/) ([Korean translation](http://jpub.tistory.com/792)); 
     [The Art of R Programming](https://nostarch.com/artofr.htm) ([Korean translation](http://www.acornpub.co.kr/book/r-programming)) -->
 
-<!-- **Syllabus**: [Link, in Korean](./syllabus2022.pdf) -->
+**Syllabus**: [Link](./syllabus_주탐1_data_2023spring.pdf)
 
-## Course Objectives
+## Objectives
 
 본 강좌에서는 경제학과 통계학 교수가 ‘데이터와 사회과학’이라는 주제에 대해 공동으로 강의한다. 사회 전반의 다양한 사안을 토론하고 그에 관련된 자료를 얻고 분석하는 방법을 배움으로써 사회를 보다 깊이 있게 바라보는 통찰력을 기르고 데이터 리터러시(data literacy)를 함양하는 것을 목표로 한다.
 
