@@ -1,4 +1,4 @@
-# 주탐1 Data and Social Science 
+#  주제탐구세미나1 Spring-2023 @SNU
 
 ## Announcements
 
