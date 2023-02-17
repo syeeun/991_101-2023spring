@@ -4,13 +4,11 @@
 
 ## Announcements/comments
 
-* 2023-03-02: First day of spring semester classes 
+  * 2023-03-02: First day of spring semester classes 
 
 ## Instructor 
 
-Yei Eun Shin
-
-**Email**: shin.y at snu dot ac dot kr
+[Yei Eun Shin](mailto:shin.y@snu.ac.kr)
 
 **Class Time**: 매주 화요일 13:00 - 15:50  
 합반강의 (13:00 - 14:30): 220동 201호 (교수 강의 + Q&A)  
@@ -32,12 +30,12 @@ TBA <!-- 김세호 ksh321ksh at snu dot ac dot kr;-->
 
 본 강좌에서는 경제학과 통계학 교수가 ‘데이터와 사회과학’이라는 주제에 대해 공동으로 강의한다. 사회 전반의 다양한 사안을 토론하고 그에 관련된 자료를 얻고 분석하는 방법을 배움으로써 사회를 보다 깊이 있게 바라보는 통찰력을 기르고 데이터 리터러시(data literacy)를 함양하는 것을 목표로 한다.
 
-### Schedule
+## Schedule
 
 The following schedule is tentative, and is subject to change over the course.
 
 | Week | Topic | Reading | Remark |
-|-----| ----- | ----- | ----- | 
+| ----- | ----- | ----- | ----- | 
 | 1 (3/7)      | (Prof. Hwang's Lecture 1) |  |  |  
 | 2 (3/14)     | (Prof. Hwang's Lecture 2) |  |  |  
 | 3 (3/21)    | Data |  |  |  
@@ -46,7 +44,7 @@ The following schedule is tentative, and is subject to change over the course.
 | 6 (4/11)    | (Prof. Hwang's Lecture 4) |  |  |  
 | 7 (4/18)  | Visualization |  |  |  
 | 8 (4/25)  | Relationship |  |  |  
-| 9 (5/2)  | 중간 개인 프로젝트 발표회: Poster Presentation |  |  |  
+| 9 (5/2)  | 중간 개인 프로젝트 발표회 |  | Poster Presentation |  
 | 10 (5/9)   | (Prof. Hwang's Lecture 5) |  | 팀 배정 |  
 | 11 (5/16) | (Prof. Hwang's Lecture 6) |  |  |  
 | 12 (5/23) | Probability |  | 기말 팀 프로젝트 프로포절 제출 |  
