@@ -1,3 +1,5 @@
 title: Data and Social Science
 description: hello
 theme: jekyll-theme-minimal
+github:
+  is_project_page: false
