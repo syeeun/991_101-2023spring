@@ -8,7 +8,7 @@
 
 ## Instructor 
 
-[신예은](https://sites.google.com/view/yeieunshin/)
+Yei Eun Shin
 
 **Email**: shin.y at snu dot ac dot kr
 
@@ -37,7 +37,7 @@ TBA <!-- 김세호 ksh321ksh at snu dot ac dot kr;-->
 The following schedule is tentative, and is subject to change over the course.
 
 | Week | Topic | Reading | Remark |
-|---| --- | --- | --- | 
+|-----| ----- | ----- | ----- | 
 | 1 (3/7)      | (Prof. Hwang's Lecture 1) |  |  |  
 | 2 (3/14)     | (Prof. Hwang's Lecture 2) |  |  |  
 | 3 (3/21)    | Data |  |  |  
