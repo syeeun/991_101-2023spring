@@ -1,4 +1,4 @@
-#  주제탐구세미나1 Spring-2023 @SNU
+#  주제탐구세미나1 Spring 2023 @SNU
 
 ## Announcements
 
