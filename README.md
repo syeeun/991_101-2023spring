@@ -1,6 +1,6 @@
 # 991.101 주제탐구세미나 1: Data and Social Science @ SNU
 
-본 사이트는 2023년 서울대학교 1학기 991.101: "주제탐구세미나 1: Data and Social Science"에서 신예은 교수(통계학 전공)의 강의에 관련한 강의노트 및 읽기자료  제공한다. 
+본 사이트는 2023년 서울대학교 1학기 991.101: "주제탐구세미나 1: Data and Social Science"에서 신예은 교수 (통계학 전공) 의 강의에 관련한 강의노트 및 읽기자료 등을 제공한다. 
 
 ## Announcements/comments
 
@@ -8,13 +8,14 @@
 
 ## Instructor 
 
-Yei Eun Shin
+[신예은](https://sites.google.com/view/yeieunshin/)
 
 **Email**: shin.y at snu dot ac dot kr
 
-**Class Time**: 
-매주 화요일 13:00 - 15:50
+**Class Time**: 매주 화요일 13:00 - 15:50
+
 합반강의 (13:00 - 14:30): 220동 201호 (교수 강의 + Q&A)
+
 분반수업 (14:45 - 15:50): 신예은 220동 201호, 황지수 220동 206호 (조교 세션)
 
 <!-- **Office Hours**: Fridays 13:00 ~ 16:00 at 25-216 or by appoinment -->
