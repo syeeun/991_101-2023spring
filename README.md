@@ -1,4 +1,6 @@
-## Announcements/comments
+# 주탐1 Data and Social Science 
+
+## Announcements
 
   * 2023-03-02: First day of spring semester classes 
 
