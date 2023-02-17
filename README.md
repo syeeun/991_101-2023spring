@@ -20,7 +20,7 @@ TBA <!-- 김세호 ksh321ksh at snu dot ac dot kr;-->
 **References**: [Advanced R](http://adv-r.had.co.nz/) ([Korean translation](http://jpub.tistory.com/792)); 
     [The Art of R Programming](https://nostarch.com/artofr.htm) ([Korean translation](http://www.acornpub.co.kr/book/r-programming)) -->
 
-**Syllabus**: [Link](./syllabus_주탐1_data_2023spring.pdf)
+**Syllabus**: [pdf](./syllabus_주탐1_data_2023spring.pdf)
 
 ## Objectives
 
