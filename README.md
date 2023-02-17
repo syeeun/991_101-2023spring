@@ -1,4 +1,4 @@
-# 991.101 주제탐구세미나 1: Data and Social Science @ SNU
+<!-- # 991.101 주제탐구세미나 1: Data and Social Science @ SNU -->
 
 본 사이트는 2023년 서울대학교 1학기 991.101: "주제탐구세미나 1: Data and Social Science"에서 신예은 교수 (통계학 전공) 의 강의에 관련한 강의노트 및 읽기자료 등을 제공한다. 
 
